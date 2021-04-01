@@ -1,0 +1,4 @@
+this is file2 in newBranch
+i am from chennai 
+tamilnadu
+
