@@ -1,4 +1,6 @@
 this is file2 in newBranch
 i am from vijayawada 
+this is file2.txt in new branch
+i am from thirupathi
 tamilnadu
 
