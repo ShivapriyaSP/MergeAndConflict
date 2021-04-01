@@ -1,4 +1,4 @@
-this is file2 in newBranch
-i am from chennai 
+this is file2.txt in new branch
+i am from thirupathi
 tamilnadu
 
